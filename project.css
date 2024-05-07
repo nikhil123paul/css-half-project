@@ -1,0 +1,119 @@
+div{
+    background-color: rgb(206, 217, 213);
+}
+
+
+
+
+
+.task{
+    margin-left: 300px;
+    /* margin-top: -10px; */
+}
+.list{
+    margin-left: 375px;
+    margin-top: -60px;
+    color: blueviolet;
+}
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 5%;
+    /* height: 350px;
+    width: 300px;
+    border: 3px solid black; */
+    margin-left: 200px;
+    height: 500px;
+    width: 750px;
+    background-color: white;
+    /* border: 5px solid black; */
+    
+    position: relative;
+    z-index: 1;
+}
+.g{
+    height: 230px;
+    width: 230px;
+    border: 2px solid black;
+    border-radius: 8px;
+    
+}
+.g:hover{
+    box-shadow: 5px 10px 10px 5px gray;
+}
+.r{
+    height: 230px;
+    width: 230px;
+    border: 2px solid black;
+    border-radius: 8px;
+
+}
+.r:hover{
+    box-shadow: 5px 10px 10px 5px gray;
+
+
+}
+.i{
+    height: 230px;
+    width: 230px;
+    border: 2px solid black;
+    border-radius: 8px;
+
+}
+.i:hover{
+    box-shadow: 5px 10px 10px 5px gray;
+}
+.d{
+    height: 230px;
+    width: 230px;
+    border: 2px solid black;
+    border-radius: 8px;
+    margin-top: 20px;
+    
+}
+.d:hover{
+    box-shadow: 5px 10px 10px 5px gray;
+}
+.s{
+    height: 230px;
+    width: 230px;
+    border: 2px solid black;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+.s:hover{
+    box-shadow: 5px 10px 10px 5px gray;
+}
+/* h4{
+    font-size: large;
+} */
+h2{
+    color: blueviolet;
+}
+.nikhil{
+    text-decoration-line: line-through;
+}
+.p{
+    margin-top: -20px;
+    text-decoration-line: line-through;
+}
+.add{
+    margin-left:800px;
+    position: absolute;
+    z-index: 2;
+    margin-bottom: -40px;
+    text-shadow: 4px 3px 2px grey;
+}
+.img{
+    margin-left: 730px;
+    margin-bottom: -60px;
+    position: absolute;
+    z-index: 3;
+    margin-top: 10px;
+}
+/* .project{
+    background-color: rgb(230, 224, 224);
+} */
+.span{
+    text-decoration-line: line-through;
+}
